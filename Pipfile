@@ -6,6 +6,8 @@ name = "pypi"
 [packages]
 tensorflow = "~=2.4.2"
 matplotlib = "~=3.4.2"
+pydot = "*"
+graphviz = "*"
 
 [dev-packages]
 
