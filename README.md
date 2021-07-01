@@ -1,0 +1,2 @@
+# Introduction to Deep Learning Concepts with Keras and TensorFlow
+This notebook provides a high-level introduction to the concepts of Deep Learning and demonstrates how to build a simple neural network that can recognize handwritten digits.
